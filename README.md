@@ -25,7 +25,7 @@ Running the script
 ------------------
 
 
-	cd <osg-source-dir>/PlatformSpecifics
+	cd <osg-source-dir>/PlatformSpecifics/iOS
 	sh build_universal_libs.sh
 	
 that's it. The script has some command-line-arguments:
